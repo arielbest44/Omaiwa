@@ -10,8 +10,8 @@ sleep 2
 clear
 echo "=========================================
 Author : ARIEL
-Git Hub : https://github.com/SQU4D1928
-YouTube : AG Official
+Git Hub : https://github.com/arielbest44
+YouTube : Ariel Sandy Permana
 =========================================="
 
 #########################################
@@ -38,8 +38,6 @@ echo""
 echo""
 echo "1. hack fb" | lolcat
 echo "--------------------------------" | lolcat
-echo  "2. 311 Tools" | lolcat
-echo "--------------------------------" | lolcat
 echo "00. exit" | lolcat
 echo""
 read -p "pillih no : " pill;
@@ -50,13 +48,6 @@ git clone https://github.com/sixtysix-Team/fbbrute
 cd fbbrute
 pip2 install mechanize
 python2 force.py
-
-;;
-
-2)clear
-git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
-cd TOOLSINSTALLERv3
-sh TUANB4DUT.sh
 
 ;;
 
